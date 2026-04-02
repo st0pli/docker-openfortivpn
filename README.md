@@ -1,4 +1,4 @@
-# ZTE中兴 问天7200 Pro+ 下跑的openfortivpn，支持局域网设备直接访问vpn网段
+# ZTE中兴 问天7200 Pro+ 下跑的openfortivpn，支持局域网设备直接访问vpn网段，支持自动重连
 
 ## https://github.com/st0pli/docker-openfortivpn
 
